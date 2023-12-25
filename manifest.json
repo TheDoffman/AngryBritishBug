@@ -1,0 +1,11 @@
+{
+    "name": "angry_british_bug",
+    "version_number": "1.4.0",
+    "website_url": "https://thunderstore.io/c/lethal-company/p/HoffmanTV/angry_british_bug/",
+    "description": "Replaces Hoarder Bug audio with an Angry British Guy From an Xbox Voice Chat Message.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Clementinise-CustomSounds-1.2.3",
+		"no00ob-LCSoundTool-1.2.2"
+    ]
+}
