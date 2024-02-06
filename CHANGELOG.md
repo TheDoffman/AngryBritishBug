@@ -65,4 +65,4 @@ All notable changes to the "Angry British" Hoarding Bug Audio Overhaul for Letha
 
 ### Changed
 
-- Modified the audio files to make them more higer quality.
+- Modified the audio files to make them higher quality.
